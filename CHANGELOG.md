@@ -14,3 +14,7 @@
 ## 1.2.0
 
 * Resolve conflict XML package version
+
+## 1.2.1
+
+* Fix library namespace
